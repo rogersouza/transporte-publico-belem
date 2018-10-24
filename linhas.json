@@ -1,0 +1,818 @@
+[
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Jardim Europa - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Jardim Europa - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Tenoné - Centro"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Icoaraci - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Icoaraci - Ver-o-Peso (Paracuri I)"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Distrito Industrial - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Curuçambá - Iguatemi"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Curuçambá - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Ananindeua - Ver-o-Peso (Floresta Park)"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Marituba - Pátio Belém (Cerâmica)"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Marituba - Pátio Belém (Colônia)"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Marituba - Ver-o-Peso (Cerâmica)"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Marituba - Doca (Cerâmica)"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Ananindeua - P. Vargas (Aurá)"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Maguari - Doca"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc",
+    "nome": "Maguari - Pátio Belém"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Cidade Nova",
+    "nome": "Fonte Boa - UFPA (via F. de Assis)"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Cidade Nova",
+    "nome": "Fonte Boa - UFPA (via Barão)"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Cidade Nova",
+    "nome": "Santa Terezinha (via Apeú)"
+},
+{
+    "linha": "Linhas de Ônibus da Expresso Modelo",
+    "nome": "Belém - Castanhal"
+},
+{
+    "linha": "Linhas de Ônibus da Expresso Modelo",
+    "nome": "Belém - Santa Izabel"
+},
+{
+    "linha": "Linhas de Ônibus da Expresso Modelo",
+    "nome": "Santa Izabel - Inhangapi (Porto da Balsa)"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio | Transportes Nova Marambaia",
+    "nome": "Icoaraci - Centro"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio | Vialoc",
+    "nome": "Icoaraci - Ver-o-Peso (COHAB)"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Sacramenta - Nazaré"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Médici - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Djalma Dutra"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Telégrafo - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Sideral - Pátio Belém"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Conj. Maguari - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Satélite - Felipe Patroni"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Satélite - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Sideral - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Tapajós - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Tenoné - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Cabanagem - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Cabanagem - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Icoaraci - Ver-o-Peso (Paracuri II)"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Icoaraci - Almirante Barroso"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Icoaraci - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Outeiro - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Outeiro - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Águas Negras - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio",
+    "nome": "Fama - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Guanabara - Felipe Patroni"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Guanabara - Centro"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Jardim Sideral - Curuçambá"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Marambaia - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Jardim Sideral - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Cidade Nova 4 - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Cidade Nova 5 - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Cidade Nova 6 - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "PAAR - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Cidade Nova 8 - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Guajará - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Guajará - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "PAAR - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Icuí - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Icuí - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Cidade Nova - UNAMA"
+},
+{
+    "linha": "Linhas de Ônibus da Mayara Transportes",
+    "nome": "Tókio"
+},
+{
+    "linha": "Linhas de Ônibus da Mayara Transportes",
+    "nome": "Campos Elíseos"
+},
+{
+    "linha": "Linhas de Ônibus da Mayara Transportes",
+    "nome": "Santa Helena - Jardim Modelo"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Jaderlândia - Pátio Belém"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Jaderlândia - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "Jaderlândia - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Forte",
+    "nome": "40 Horas - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Unicootrans",
+    "nome": "Saré - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Unicootrans",
+    "nome": "Geraldo Palmeira - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Unicootrans",
+    "nome": "Águas Lindas - Castanheira (via Nova Vida)"
+},
+{
+    "linha": "Linhas de Ônibus da Unicootrans",
+    "nome": "Águas Lindas - Cidade Nova 6"
+},
+{
+    "linha": "Linhas de Ônibus da Unicootrans",
+    "nome": "Águas Brancas - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Transcap",
+    "nome": "Mosqueiro - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Transcap",
+    "nome": "Benevides - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Transcap",
+    "nome": "Benevides - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transcap",
+    "nome": "Santa Bárbara - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Universidade Federal Rural da Amazônia",
+    "nome": "Bagé (Circular)"
+},
+{
+    "linha": "Linhas de Ônibus da Coopcaban",
+    "nome": "Saré - 40 Horas"
+},
+{
+    "linha": "Linhas de Ônibus da Coopcaban",
+    "nome": "Anita Gerosa / Icuí - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Coopcaban",
+    "nome": "40 Horas - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Voyage Transportes",
+    "nome": "Curuçambá - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Voyage Transportes",
+    "nome": "Águas Lindas - Castanheira (via Olga Benário)"
+},
+{
+    "linha": "Linhas de Ônibus da Universidade Federal do Pará",
+    "nome": "Circular UFPA"
+},
+{
+    "linha": "Linhas de Barca da Coopbarq",
+    "nome": "Combú"
+},
+{
+    "linha": "Linhas de Barca da Navegação Confiança",
+    "nome": "Icoaraci - Cotijuba"
+},
+{
+    "linha": "Linhas de Barca da Amazonat",
+    "nome": "Belém - Barcarena (São Francisco)"
+},
+{
+    "linha": "Linhas de Barca da Arapari Navegação",
+    "nome": "Belém - Barcarena (Arapari)"
+},
+{
+    "linha": "Linhas de Ônibus da Cooptarvc",
+    "nome": "Porto - Conde"
+},
+{
+    "linha": "Linhas de Ônibus da Cooptarvc",
+    "nome": "Porto - Itupanema - Caripi"
+},
+{
+    "linha": "Linhas de Barca da Henvil Navegação",
+    "nome": "Belém - Salvaterra (Camará)"
+},
+{
+    "linha": "Linhas de Ônibus da Cooptauá",
+    "nome": "Belém - Tauá"
+},
+{
+    "linha": "Linhas de Ônibus da Salve Maria",
+    "nome": "Jaderlândia (3ª Rua) - Apeú"
+},
+{
+    "linha": "Linhas de Ônibus da Salve Maria",
+    "nome": "Betânia"
+},
+{
+    "linha": "Linhas de Barca da Henvil Navegação",
+    "nome": "Inhangapi - Bujaru"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio | Viação Rio Guamá",
+    "nome": "Satélite - UFPA"
+},
+{
+    "linha": "Linhas de Ônibus da Rosas Transportes",
+    "nome": "Jaderlândia (2ª Rua) - COHAB"
+},
+{
+    "linha": "Linhas de Ônibus da Expresso Amorim Vitória",
+    "nome": "Imperador - Centro"
+},
+{
+    "linha": "Linhas de Ônibus da Belém Rio | Viação Forte",
+    "nome": "Icoaraci - Cidade Nova"
+},
+{
+    "linha": "Linhas de Ônibus da Ruth Transportes",
+    "nome": "Ipês Tangarás - UFPA"
+},
+{
+    "linha": "Linhas de Ônibus da Expresso Macapazinho",
+    "nome": "Pantanal"
+},
+{
+    "linha": "Linhas de Ônibus da Expresso Macapazinho",
+    "nome": "Milagre - FCAT"
+},
+{
+    "linha": "Linhas de Ônibus da Transporte Macapazinho",
+    "nome": "Cariri"
+},
+{
+    "linha": "Linhas de Ônibus da Transporte Macapazinho",
+    "nome": "Calúcia"
+},
+{
+    "linha": "Linhas de Ônibus da TransMosqueiro | Shallom",
+    "nome": "Vila - Baía do Sol"
+},
+{
+    "linha": "Linhas de Ônibus da Expresso São José",
+    "nome": "KM 07 - FCAT"
+},
+{
+    "linha": "Linhas de Ônibus da Expresso São José",
+    "nome": "Parque dos Castanhais - FCAT"
+},
+{
+    "linha": "Linhas de Ônibus da Luane Transportes",
+    "nome": "Parque dos Buritis - FCAT"
+},
+{
+    "linha": "Linhas de Ônibus da Luane Transportes",
+    "nome": "Jagatá - UFPA"
+},
+{
+    "linha": "Linhas de Ônibus da Vialuz",
+    "nome": "Pedreira - Condor"
+},
+{
+    "linha": "Linhas de Ônibus da Vialuz",
+    "nome": "Pedreira - Felipe Patroni"
+},
+{
+    "linha": "Linhas de Ônibus da TransMosqueiro",
+    "nome": "Vila - Carananduba"
+},
+{
+    "linha": "Linhas de Ônibus da TransMosqueiro",
+    "nome": "Vila - Paraíso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Águas Lindas",
+    "nome": "Águas Lindas - Pátio Belém"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Águas Lindas",
+    "nome": "Águas Lindas - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da TransMosqueiro",
+    "nome": "Circular - Portal"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Águas Lindas",
+    "nome": "Águas Lindas - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Águas Lindas",
+    "nome": "Águas Lindas - Icoaraci"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes São Luiz",
+    "nome": "Canudos - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes São José",
+    "nome": "Canudos - Praça Amazonas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes São José",
+    "nome": "Canudos II - Praça Amazonas (Tucunduba)"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes São Luiz | Transportes São José",
+    "nome": "Canudos - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Canadá",
+    "nome": "UFPA · Alcindo Cacela - José Malcher"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Canadá",
+    "nome": "Domingos Marreiros"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Canadá",
+    "nome": "Castanheira - Pátio Belém (Seletivo)"
+},
+{
+    "linha": "Linhas de Ônibus da Fênix Transportes",
+    "nome": "40 Horas - Marituba"
+},
+{
+    "linha": "Linhas de Ônibus da Fênix Transportes",
+    "nome": "Icuí - Marituba"
+},
+{
+    "linha": "Linhas de Ônibus da Fênix Transportes",
+    "nome": "PAAR - CEASA"
+},
+{
+    "linha": "Linhas de Ônibus da Transuni",
+    "nome": "Eduardo Angelim - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Transuni",
+    "nome": "Tapanã - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Transurb | Viação Guajará",
+    "nome": "UFPA - Cidade Nova 6"
+},
+{
+    "linha": "Linhas de Ônibus da Transportadora Arsenal",
+    "nome": "Arsenal"
+},
+{
+    "linha": "Linhas de Ônibus da Transportadora Arsenal",
+    "nome": "Cipriano Santos - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportadora Arsenal",
+    "nome": "Ceasa - Felipe Patroni"
+},
+{
+    "linha": "Linhas de Ônibus da Transportadora Arsenal",
+    "nome": "Ceasa - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transurb | Viação Guajará | Viação Rio Guamá",
+    "nome": "UFPA - Icoaraci"
+},
+{
+    "linha": "Linhas de Ônibus da Transurb",
+    "nome": "UFPA - Tamoios"
+},
+{
+    "linha": "Linhas de Ônibus da Transurb",
+    "nome": "João Paulo II - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transurb",
+    "nome": "Marex - Felipe Patroni"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "Sacramenta - Humaitá"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "Sacramenta - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "Sacramenta - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "Pedreira - Nazaré"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "Pedreira - Lomas (Linha A / Euclides da Cunha)"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "Pedreira - Lomas (Seletivo)"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "Marex - Arsenal"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "CDP/Providência - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Monte Cristo",
+    "nome": "Pedreira - Lomas (Linha B / BR 316)"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Marituba - Pátio Belém (Decouville)"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Marituba - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Marituba - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Almir Gabriel - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Almir Gabriel - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Almir Gabriel - Pátio Belém"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Marituba - Pátio Belém (Mario Couto)"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Marituba - Ver-o-Peso (via Alça Viária)"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Marituba - Icoaraci"
+},
+{
+    "linha": "Linhas de Ônibus da Autoviária Paraense",
+    "nome": "Julia Seffer - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Benfica Murinin - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Marituba - Cidade Nova"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Júlia Seffer - Cidade Nova"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Águas Brancas - Cidade Nova"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Icoaraci - Marituba"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Unama BR - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Ananindeua - Pres. Vargas (Águas Brancas)"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Distrito Industrial - Pátio Belém"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Distrito Industrial - São Brás"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Julia Seffer - Pátio Belém"
+},
+{
+    "linha": "Linhas de Ônibus da Barata Transportes",
+    "nome": "Distrito Industrial - Cidade Nova"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Guajará",
+    "nome": "Cremação - Estrada Nova"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Guajará",
+    "nome": "Cremação - Alcindo Cacela"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Guajará",
+    "nome": "UFPA - Pedreira"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Guajará",
+    "nome": "UFPA - Padre Eutí­quio"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Guajará",
+    "nome": "UFPA - Alcindo Cacela"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Guajará",
+    "nome": "UFPA - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Guajará",
+    "nome": "UFPA - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Guajará",
+    "nome": "UFPA - Centro Histórico"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Rio Guamá",
+    "nome": "Guamá - Conselheiro"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Rio Guamá",
+    "nome": "Guamá - Montepio"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Rio Guamá",
+    "nome": "Guamá - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Rio Guamá",
+    "nome": "Guamá - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Rio Guamá",
+    "nome": "Guamá - Pátio Belém"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Rio Guamá",
+    "nome": "Marex - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Viação Rio Guamá",
+    "nome": "Marex - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia | Transcol",
+    "nome": "Pratinha - Castanheira (via Júlio César)"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Pratinha - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Pratinha - Castanheira (via Tapanã)"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Marex - Centro (via Bengui)"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Pratinha - UFPA"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Benguí - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Benguí - Felipe Patroni"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Benguí - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Cordeiro de Farias - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Canarinho - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Cordeiro de Farias - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Pratinha - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Cordeiro de Farias - Castanheira"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Canarinho / Tapajós - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Tapanã II - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Tapanã - Felipe Patroni"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia | Viação Guajará",
+    "nome": "Tapanã - UFPA"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia | Vialoc",
+    "nome": "Eduardo Angelim - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Tapanã - Ver-o-Peso"
+},
+{
+    "linha": "Linhas de Ônibus da Transportes Nova Marambaia",
+    "nome": "Tapanã - Pres. Vargas"
+},
+{
+    "linha": "Linhas de Ônibus da Vialoc | Viação Guajará",
+    "nome": "Marituba - UFPA"
+}
+]
